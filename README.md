@@ -1,6 +1,8 @@
 # Battleships_Game
 Classic Battleship game with customizable grid size.
 
+Press "Open in Gitpod" button below to play!
+
 # Instructions 
 1) Input grid size (5 => 5x5 grid) 
 2) '?' means unchecked location
