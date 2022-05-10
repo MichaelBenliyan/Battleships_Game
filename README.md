@@ -7,3 +7,9 @@ Classic Battleship game with customizable grid size.
 3) '-' means miss
 4) 'H' means hit 
 5) Game will finish if player runs out of attempts or player sinks all enemy ships.
+
+# Run in Gitpod
+
+You can also run Racing Game Against Trained AI in Gitpod, a free online dev environment for GitHub:
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/MichaelBenliyan/Battleships_Game)
