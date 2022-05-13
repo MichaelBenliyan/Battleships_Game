@@ -1,4 +1,4 @@
-# Battleships_Game
+# Battleships Game
 Classic Battleship game with customizable grid size.
 
 Press "Open in Gitpod" button below to play!
@@ -12,6 +12,6 @@ Press "Open in Gitpod" button below to play!
 
 # Run in Gitpod
 
-You can also run Racing Game Against Trained AI in Gitpod, a free online dev environment for GitHub:
+You can also run my Battleships Game in Gitpod, a free online dev environment for GitHub:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/MichaelBenliyan/Battleships_Game)
